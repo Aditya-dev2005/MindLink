@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719094385137",
+    "project_id": "mindlink-79608",
+    "storage_bucket": "mindlink-79608.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719094385137:android:86b6f220af1bfb59191c50",
+        "android_client_info": {
+          "package_name": "com.example.mindlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_D7-yahoCuTr-UY_8wPUheSCF-gQo5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
